@@ -1,48 +1,59 @@
-<h2 align="center">👋 Hi, I'm 이동준</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=200&section=header&text=Lee%20Dongjun&fontSize=52&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<h3 align="center">
+  아이디어를 코드로 증명하는 개발자
+</h3>
 
 <p align="center">
-  아이디어를 코드로 증명하는 개발자<br/>
   사용자 흐름 · 데이터 구조 · 확장성을 함께 고민합니다
 </p>
 
 ---
 
-### ✨ About Me
-- 기능 단위 구현보다 **서비스 흐름과 책임 분리**를 중요하게 생각합니다.
-- “동작하는 코드”를 넘어서 **유지보수 가능한 구조**를 지향합니다.
-- 프론트엔드와 백엔드를 나누기보다 하나의 제품으로 바라보며 개발합니다.
+## 🧑‍💻 About Me
+- 기능 구현보다 **왜 필요한지**를 먼저 고민합니다  
+- 서비스 단위에서 **역할과 책임이 분리된 구조**를 지향합니다  
+- 프론트엔드와 백엔드를 하나의 흐름으로 연결하는 개발을 선호합니다  
 
 ---
 
-### 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-#### Frontend
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,styledcomponents&theme=dark" />
 </p>
 
-#### Backend & Database
+### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,firebase,oracle" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,oracle,firebase&theme=dark" />
 </p>
 
-#### Infra & Tools
+### Infra & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github" />
-</p>
-
----
-
-### 📈 GitHub Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeDongjun00&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,figma&theme=dark" />
 </p>
 
 ---
 
-### 🎯 Direction
-기술을 위한 개발이 아니라,  
-**사용자와 팀 모두에게 설명 가능한 선택을 하는 개발자**로 성장하고자 합니다.
+## 📌 Focus
+- 사용자 입력 → 처리 → 결과까지의 **전체 흐름 설계**
+- 데이터 정합성과 유지보수를 고려한 구조 설계
+- 작은 기능이라도 **확장 가능한 형태로 구현**
 
-문제의 본질을 이해하고,  
-그에 맞는 구조와 기술을 선택하는 과정을 꾸준히 기록합니다.
+---
+
+## 🎯 Direction
+기술 스택보다  
+**문제를 정의하고 선택의 이유를 설명할 수 있는 개발자**를 목표로 합니다.
+
+완성도 있는 결과물을 통해  
+아이디어가 실제 서비스로 구현되는 과정을 증명하고자 합니다.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2937&height=40&section=footer" />
+</p>
