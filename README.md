@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=200&section=header&text=Lee%20Dongjun&fontSize=52&fontColor=ffffff&fontAlignY=35" />
 </p>
+
 ## 🧑‍💻 About Me
 - 기능 구현보다 **왜 필요한지**를 먼저 고민합니다  
 - 서비스 단위에서 **역할과 책임이 분리된 구조**를 지향합니다  
