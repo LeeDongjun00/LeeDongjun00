@@ -1,54 +1,48 @@
-## 👋 Hi there
+<h2 align="center">👋 Hi, I'm 이동준</h2>
 
-아이디어를 코드로 증명하는 개발자 **이동준**입니다.  
-사용자의 흐름과 데이터 구조를 함께 고민하며,  
-기획 의도가 코드로 자연스럽게 이어지는 구현을 지향합니다.
-
----
-
-## 💡 About Me
-- 사용자 관점에서 문제를 정의하고 기능 단위로 책임을 나누는 개발을 선호합니다.
-- 단순 구현을 넘어 **왜 필요한 기능인지**, **어떻게 확장될 수 있는지**를 고민합니다.
-- 프론트엔드와 백엔드를 분리된 영역이 아닌 하나의 서비스 흐름으로 바라봅니다.
+<p align="center">
+  아이디어를 코드로 증명하는 개발자<br/>
+  사용자 흐름 · 데이터 구조 · 확장성을 함께 고민합니다
+</p>
 
 ---
 
-## 🛠 Tech Stack
-**Frontend**  
-- React, TypeScript, JavaScript  
-- styled-components, Flutter
-
-**Backend / DB**  
-- Spring Boot, Node.js  
-- MySQL, Oracle, Firebase(Firestore)
-
-**Infra / Tools**  
-- AWS (EC2, S3)  
-- Git / GitHub
+### ✨ About Me
+- 기능 단위 구현보다 **서비스 흐름과 책임 분리**를 중요하게 생각합니다.
+- “동작하는 코드”를 넘어서 **유지보수 가능한 구조**를 지향합니다.
+- 프론트엔드와 백엔드를 나누기보다 하나의 제품으로 바라보며 개발합니다.
 
 ---
 
-## 📌 Featured Projects
+### 🛠 Tech Stack
 
-### 🔹 HobbyWave
-취향 기반 SNS 개인 프로젝트  
-- 랜덤 피드 추천, 사용자 레벨링, 북마크 기능 구현  
-- React 기반 컴포넌트 구조 설계 및 상태 관리 경험
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,styledcomponents" />
+</p>
 
-### 🔹 ImReady
-여행 추천 및 코스 생성 팀 프로젝트  
-- 테마 선택 기반 추천 로직 설계  
-- 외부 API 연동 및 지도 시각화 구현
+#### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,firebase,oracle" />
+</p>
 
-### 🔹 MODE (Flutter Team Project)
-일정 기반 코디 다이어리 모바일 서비스  
-- 캘린더와 코디 데이터 연동  
-- 캔버스 기반 이미지 조합 및 저장 기능 구현
+#### Infra & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+</p>
 
 ---
 
-## 🎯 Direction
-기술을 위한 기술이 아닌,  
-**서비스의 맥락을 이해하고 팀에 기여하는 개발자**로 성장하고자 합니다.
+### 📈 GitHub Activity
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeDongjun00&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-꾸준한 학습과 기록을 통해 더 나은 구조와 선택을 만들어가겠습니다.
+---
+
+### 🎯 Direction
+기술을 위한 개발이 아니라,  
+**사용자와 팀 모두에게 설명 가능한 선택을 하는 개발자**로 성장하고자 합니다.
+
+문제의 본질을 이해하고,  
+그에 맞는 구조와 기술을 선택하는 과정을 꾸준히 기록합니다.
