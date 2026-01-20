@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=200&section=header&text=Lee%20Dongjun&fontSize=52&fontColor=ffffff&fontAlignY=35" />
 </p>
-
-<h3 align="center">
-  아이디어를 코드로 증명하는 개발자
-</h3>
-
-<p align="center">
-  사용자 흐름 · 데이터 구조 · 확장성을 함께 고민합니다
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
