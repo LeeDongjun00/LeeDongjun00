@@ -18,7 +18,7 @@
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,oracle,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,firebase&theme=dark" />
 </p>
 
 ### Infra & Tools
